@@ -1,0 +1,2 @@
+Usuario=yo
+model name	: Intel(R) Core(TM) Ultra 5 135U
